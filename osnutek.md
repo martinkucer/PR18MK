@@ -1,5 +1,5 @@
 # PR18MK
-Projektna naloga
+Predikcija širjenja zahodno nilskega virusa v Chikagu
 
 Za projektno nalogo sem si zbral tekmovanje iz kaggla pod naslovom West Nile Virus Prediction.
 Projekt se mi zdi zanimiv ker sem bil vedno naudušenec nad biologijo poleg tega pa je projekt iz kaggla tako da doda nekaj tekmovalnosti in omogoča lažje primerjava rezultatov. Poleg tega so pripravljeni tudi testni podatki kar še dodatno vrne določeno povratno informacijo.
