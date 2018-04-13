@@ -11,3 +11,4 @@ pridobljeno znanje o protakolih, ki jih Chikago uvaja, da bi zaustavil širjenje
 imata dež in temparatura velik vpliv na število komarjev. Iz same podatkovne strukture pa se da dognati tudi, da je za pričakovati, da
 bodo pescitidi, ki jih kot preventiva spuščamo ljudje imeli velik vpliv in bojo predvidoma sprožili nihanja v glavmem setu podatkov.
 
+Ostale informacije so dostpne v naloženi jupyter datoteki oziroma jih bom predstavil na zagovoru.
